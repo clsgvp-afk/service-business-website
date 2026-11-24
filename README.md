@@ -1,6 +1,6 @@
-# HandwerkPilot – WordPress service workflow
+# Service Business Website
 
-HandwerkPilot is a portfolio project that demonstrates a complete service-request workflow for a fictional electrical company. It is not only a visual website: the repository contains a custom WordPress theme and a custom plugin with an operational backend workflow.
+This project is a portfolio project that demonstrates a complete service-request workflow for a fictional electrical company. It is not only a visual website: the repository contains a custom WordPress theme and a custom plugin with an operational backend workflow.
 
 ## What the project demonstrates
 
@@ -45,3 +45,7 @@ The public form is protected with a WordPress nonce and a honeypot field. Every 
 
 This is an independent practice project created for a development portfolio. ElektroFix Achern is fictional and no real customer data is processed.
 
+
+## Live demo
+
+[Open the static portfolio demo](https://clsgvp-afk.github.io/handwerkpilot/)
